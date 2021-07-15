@@ -31,6 +31,9 @@ public class Tareamodulo4parte2 {
          System.out.println(ia.getCapitan());
          System.out.println(ea.getEquipo());
          System.out.println(ea.getCapitan());
+         
+         
+           System.out.println("Vamos a Guardar el codigo en GitHub");
     }
     
 }
